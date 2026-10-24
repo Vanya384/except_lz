@@ -26,4 +26,5 @@ def main():
     check_success.process()
 
 
-main()
+if __name__=="__main__":
+    main()
